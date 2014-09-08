@@ -1,0 +1,7 @@
+baseurl: /ruleset
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "ruleset"

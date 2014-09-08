@@ -1,0 +1,11 @@
+{% include head.html %}
+
+<div class="masthead"><div class="header"><img id="logo" src="{{ site.baseurl }}/assets/logo.png" alt="RMCT logo"><h1>Standard Ruleset <small>version {{ page.version }}</small></h1></div></div>
+
+
+<div class="content">
+<div class="usage-note">{% include usage.html %}</div>
+{{ content }}
+</div>
+
+{% include footer.html %}

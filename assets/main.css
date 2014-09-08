@@ -1,0 +1,66 @@
+* {
+	font-family: sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #333;
+}
+
+.masthead {
+	background: linear-gradient(to bottom, #FFFFFF 0%, #DBDBDB 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+	height: 90px;
+}
+
+.header, .content {
+	margin: 0 auto;
+	width: 980px;
+	margin-bottom: 20px;
+	padding: 1px;
+}
+
+.content {
+	padding-top: 20px;
+}
+
+#logo {
+	padding: 8px 20px 0 0;
+	float: left;
+}
+
+.header h1 {
+	padding-top: 12px;
+}
+
+.header h1 small {
+	font-size: 60%;
+	color: #888;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #973430;
+}
+
+.usage-note {
+	border: 1px solid #973430;
+	padding: 8px;
+	font-size: 115%;
+}
+
+li, p, dt, dd {
+	line-height: 1.5;
+	padding-top: 0.4em;
+	padding-bottom: 0.4em;
+}
+
+dl {
+	padding-left: 2em;
+}
+dl dt {
+	float: left;
+}
+
+li>ol>li {
+	list-style-type: lower-latin;
+}
