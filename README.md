@@ -1,0 +1,4 @@
+ruleset
+=======
+
+RMCT Standard Ruleset
