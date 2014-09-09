@@ -1,5 +1,5 @@
 ---
-version: 2.3 (third draft) 
+version: 2.3
 ---
 
 # Section I: Precedence of Rules
