@@ -1,5 +1,5 @@
 ---
-version: 2.3
+version: 2.3.1
 ---
 
 # Section I: Precedence of Rules
@@ -36,7 +36,7 @@ No player shall, during any official match he or she participates in, beginning 
 9. Logout/login as a means to gain any advantage, including avoiding PvP or other hazards. Logging out and in to address lag or fix chunk errors is permissible.
 10. Throw any ender pearl, or enter any minecart, boat, or bed, while occupying any position partially outside of his or her lane.
 11. Cause or allow any part of his or her character’s collision box to occupy the same area as any bedrock block for any period of time. 
-12. Cause any item entity to occupy the same location as any block for the purpose of forcing that item entity to travel:
+12. Cause any entity to occupy the same location as any block for the purpose of forcing that entity to travel:
     1. through any unbreakable block<sup>[3]</sup>, or
     2. upwards through multiple blocks
 13. Make use of the game's bed exiting or respawning mechanics, or rideable entity exiting mechanics, to teleport a player or entity across a barrier composed of unbreakable blocks<sup>[3]</sup>.
