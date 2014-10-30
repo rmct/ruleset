@@ -34,7 +34,9 @@ No player shall, during any official match he or she participates in, beginning 
 7. Impede any other player from entering her or his lane<sup>[2]</sup> from the starting platform.
 8. Break any block on, or take any block or item from the starting platform.
 9. Logout/login as a means to gain any advantage, including avoiding PvP or other hazards. Logging out and in to address lag or fix chunk errors is permissible.
-10. Throw any ender pearl, or enter any rideable entity or bed, while occupying any position partially outside of his or her lane.
+10. Throw any ender pearl, or enter any rideable entity or bed, while:
+    1. the player is occupying any position partially outside of his or her lane, or
+    2. in the case of a rideable entity, the location clicked is partially outside of the player's lane.
 11. Cause or allow any part of his or her character’s collision box to occupy the same area as any bedrock block for any period of time. 
 12. Cause any entity to occupy the same location as any block for the purpose of forcing that entity to travel:
     1. through any unbreakable block<sup>[3]</sup>, or
