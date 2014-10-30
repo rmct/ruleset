@@ -41,7 +41,9 @@ No player shall, during any official match he or she participates in, beginning 
 12. Cause any entity to occupy the same location as any block for the purpose of forcing that entity to travel:
     1. through any unbreakable block<sup>[3]</sup>, or
     2. upwards through multiple blocks
-13. Make use of the game's bed exiting or respawning mechanics, or rideable entity exiting mechanics, to teleport a player or entity across a barrier composed of unbreakable blocks<sup>[3]</sup>.
+13. Teleport a player or entity across a barrier composed of unbreakable blocks<sup>[3]</sup>, by making use of either:
+    1. the bed exiting or respawning mechanics, or
+    2. the rideable entity entry or exiting mechanics, except where the destination the player will teleport to is in their direct line of sight, unimpeded by any non-air blocks.
 14. Cause any unbreakable block<sup>[3]</sup> to be removed or replaced with any other block.
 15. Use any Minecraft client that been modified in any way, apart from having one or more of the following mods installed. Additional mods may be added to this list in response to player requests:
     1. [Optifine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-a4-fps-boost-hd-textures-aa-af-and)
