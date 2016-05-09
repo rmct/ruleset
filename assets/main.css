@@ -42,12 +42,6 @@ h1, h2, h3, h4, h5, h6 {
 	color: #973430;
 }
 
-.usage-note {
-	border: 1px solid #973430;
-	padding: 8px;
-	font-size: 115%;
-}
-
 li, p, dt, dd {
 	line-height: 1.5;
 	padding-top: 0.4em;
