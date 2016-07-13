@@ -1,5 +1,5 @@
 ---
-version: 3.0
+version: 3.0.1
 ---
 
 # Section I: Usage notes
@@ -25,10 +25,10 @@ No player shall, during any official match they participate in, be permitted to:
 7. Dye any sheep or block of wool on any map where colored wool is an objective block-type.
 8. Take any block or item from the starting platform.
 9. Logout/login as a means to gain any advantage, including avoiding PvP or other hazards. Logging out and in to address lag or fix chunk errors is permissible.
-10. Use any Minecraft client that has been modified in any way, apart from having one or more of the following mods installed. Additional mods that do not provide any substantial gameplay advantage to the players who use them may be added to this list or allowed on a case-by-case basis in response to player requests:
+10. Use any external tool to gain an advantage over other players, or use a Minecraft client that has been modified in any way, apart from having one or more of the following mods installed:
     1. [Optifine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-a4-fps-boost-hd-textures-aa-af-and)
     2. [Forge](http://files.minecraftforge.net/)
-    3. [The Replay Mod](https://www.replaymod.com/)
+    3. [Replay Mod](https://www.replaymod.com/)
 11. Use any resource pack that:
     1. adds any degree of transparency to any texture that is opaque in the default Minecraft resource pack; and/or
     2. changes the block model of any block that is a 1x1x1 cube in the default Minecraft resource pack.
