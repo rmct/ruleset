@@ -1,12 +1,12 @@
 ---
-version: 3.1.0
+version: 3.1.1
 ---
 
 # Section I: Usage notes
 
 1. This document is provided by Reddit Minecraft Tournaments (RMCT) for use in events that include Minecraft game-types such as Race For Wool. Anyone is welcome to use it. We just ask that any public posting of this document is attributed to RMCT.
-2. This ruleset is designed for use in Minecraft 1.8.x with the [AutoReferee](http://rmct.github.io/AutoReferee/) plugin.
-3. The following rules are intended to serve as a comprehensive replacement for the rules provided by any tournament map. Any map-specific rules used for matches of this tournament must be specifically sanctioned by the organisers of the tournament.
+2. This ruleset is designed for use in Minecraft 1.8.x with the [AutoReferee](http://rmct.github.io/AutoReferee/) plugin. An explanation of what the plugin does in a match can be found [here](https://docs.google.com/document/d/1p1WIBTpJSCn-jhqm1mOhF2ujn0gSDwb0XselMh8W8Ws/pub).
+3. The following rules are intended to serve as a comprehensive replacement for the rules provided by any tournament map. Any map-specific rules used for matches of this tournament must be specifically sanctioned by the organizers of the tournament.
 
 # Section II: Match Rules
 
@@ -25,10 +25,13 @@ No player shall, during any official match they participate in, be permitted to:
 7. Dye any sheep or block of wool on any map where colored wool is an objective.
 8. Take any block or item from the starting platform.
 9. Logout/login as a means to gain any advantage, including avoiding PvP or other hazards. Logging out and in to address lag or fix chunk errors is permissible.
-10. Use any external tool to gain an advantage over other players, or use a Minecraft client that has been modified in any way, apart from having one or more of the following mods installed:
+10. Use any external tool that modifies gameplay to gain an advantage over other players, or use a Minecraft client that has been modified in any way, apart from having one or more of the following mods installed:
     1. [Optifine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-a4-fps-boost-hd-textures-aa-af-and)
-    2. [Forge](http://files.minecraftforge.net/)
-    3. [Replay Mod](https://www.replaymod.com/)
+    2. [bspkrs Core, ArmorStatus HUD, DirectionHUD, StatusEffectHUD](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud)
+    3. [Labymod (v2.6 and above)](https://www.labymod.net/)
+    4. [Toggle Sneak/Sprint (Labymod version)](https://www.labymod.net/cmods)
+    5. [Forge](http://files.minecraftforge.net/)
+    6. [Replay Mod](https://www.replaymod.com/)
 11. Use any resource pack that:
     1. adds any degree of transparency to any texture that is opaque in the default Minecraft resource pack; and/or
     2. changes the block model of any block that is a 1x1x1 cube in the default Minecraft resource pack.
@@ -37,7 +40,7 @@ No player shall, during any official match they participate in, be permitted to:
     2. communications over designated channels of a voice chat server approved by a referee for use in that match, or
     3. direct verbal and/or gestural communications made by any of their teammates connecting to the match from the same immediate physical area.
 
-# Section III: Tiebreaking
+# Section III: Tie-breaking
 
 1. If all teams have the same number of _capped_<sup>__[[3]](#section-vi-definitions)__</sup> objectives after 100 minutes, victory is awarded to the team that had the highest number of simultaneous capped objectives at any time during the match.
 2. If the highest number of simultaneous capped objectives is the same for all teams, victory is awarded to first team to cap that number of objectives during that match.
@@ -58,8 +61,8 @@ If a referee feels that they can reasonably conclude that any rule was violated 
 
 # Section VI: Definitions
 
-__[1]__ _An unbreakable block is defined as any solid block which cannot be broken by punching it in survival gamemode. This includes bedrock, end-portal frames, and barrier blocks._
+__[1]__ An _unbreakable block_ is defined as any solid block which cannot be broken by punching it in survival gamemode. This includes bedrock, end-portal frames, and barrier blocks.
 
-__[2]__ _An objective is a block, item or entity which is required to be capped in order to win the match._
+__[2]__ An _objective_ is a block, item or entity which is required to be capped in order to win the match.
 
-__[3]__ _An objective is capped if it is positioned in its victory region (defined by AutoReferee)._
+__[3]__ An objective is _capped_ if it is positioned in its victory region (defined by AutoReferee).
