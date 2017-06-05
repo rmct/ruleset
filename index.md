@@ -1,5 +1,5 @@
 ---
-version: 3.1.2
+version: 3.1.3
 ---
 
 # Section I: Usage notes
@@ -17,7 +17,7 @@ No player shall, during any official match they participate in, be permitted to:
     2. a bed or ridable entity, (except when the destination is in the player’s direct line of sight, unobstructed by the void lane or a barrier block).
 2. Pick up an item entity (directly into the inventory of either the player or a hopper minecart) across an unbreakable block.
 3. Cause any part of any entity to occupy the same location as any unbreakable block.
-4. Cause any unbreakable block or air block in the void lane to be removed or replaced with any other block.
+4. Cause any air block in the void lane or unbreakable block to be removed or replaced with any other block.
 5. Leave their lane (clientside or serverside) and perform any action other than killing their character in the void.
 6. Destroy any inventory in the opposing team's lane that contained any of that map's _objectives_<sup>__[[2]](#section-vi-definitions)__</sup> at the beginning of the match. This is otherwise permissible only if:
     1. this inventory had previously been broken by some other means, or
@@ -30,8 +30,9 @@ No player shall, during any official match they participate in, be permitted to:
     2. [bspkrs Core, ArmorStatus HUD, DirectionHUD, StatusEffectHUD](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud)
     3. [Labymod (v2.6 and above)](https://www.labymod.net/)
     4. [Toggle Sneak/Sprint (Labymod version)](https://www.labymod.net/cmods)
-    5. [Forge](http://files.minecraftforge.net/)
-    6. [Replay Mod](https://www.replaymod.com/)
+    5. [5zig](https://5zig.net/)
+    6. [Forge](http://files.minecraftforge.net/)
+    7. [Replay Mod](https://www.replaymod.com/)
 11. Use any resource pack that:
     1. adds any degree of transparency to any texture that is opaque in the default Minecraft resource pack; and/or
     2. changes the block model of any block that is a 1x1x1 cube in the default Minecraft resource pack.
