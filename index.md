@@ -1,5 +1,5 @@
 ---
-version: 3.1.3
+version: 3.1.4
 ---
 
 # Section I: Usage notes
@@ -43,7 +43,7 @@ No player shall, during any official match they participate in, be permitted to:
 
 # Section III: Tie-breaking
 
-1. If all teams have the same number of _capped_<sup>__[[3]](#section-vi-definitions)__</sup> objectives after 100 minutes, victory is awarded to the team that had the highest number of simultaneous capped objectives at any time during the match.
+1. If all teams have the same number of _capped_<sup>__[[3]](#section-vi-definitions)__</sup> objectives after 80 minutes, victory is awarded to the team that had the highest number of simultaneous capped objectives at any time during the match.
 2. If the highest number of simultaneous capped objectives is the same for all teams, victory is awarded to first team to cap that number of objectives during that match.
 
 # Section IV: General Constraints
